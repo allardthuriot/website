@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aurélien Allard on Aurélien Allard</title>
+    <link>/</link>
+    <description>Recent content in Aurélien Allard on Aurélien Allard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Estimating the Reproducibility of Experimental Philosophy</title>
+      <link>/publication/rpxphi/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rpxphi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non réplicable (in French)</title>
+      <link>/publication/nonreplicable/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nonreplicable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Les limites de l&#39;injustice: une étude empirique</title>
+      <link>/publication/nagel/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nagel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Great Wall of Britain (Review of David Miller, Strangers in our Midst)</title>
+      <link>/publication/retour_remparts/</link>
+      <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/retour_remparts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
