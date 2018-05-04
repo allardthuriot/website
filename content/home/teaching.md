@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-During the years 2015-2016 and 2016-2017, I gave given lectures on the following topics at Paris 8 University:
+During the years 2015-2016 and 2016-2017, I  gave lectures on the following topics at Paris 8 University:
 
 - Introduction to Political Theory (for first-year undergrads)
 - Theories of Justice (for first-year MA students)
