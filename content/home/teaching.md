@@ -19,3 +19,5 @@ During the years 2015-2016 and 2016-2017, I  gave lectures on the following topi
 
 - Introduction to Political Theory (for first-year undergrads)
 - Theories of Justice (for first-year MA students)
+
+In 2011-2012, I co-organized a seminar on contemporary French philosophy at Leipzig University.
