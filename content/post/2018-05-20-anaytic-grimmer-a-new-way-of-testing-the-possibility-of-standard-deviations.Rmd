@@ -1,5 +1,5 @@
 ---
-title: 'Anaytic-GRIMMER: a new way of testing the possibility of standard deviations'
+title: 'Analytic-GRIMMER: a new way of testing the possibility of standard deviations'
 author: Aurelien Allard
 date: '2018-05-20'
 slug: anaytic-grimmer-possibility-standard-deviations
