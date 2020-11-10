@@ -18,9 +18,9 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in philosophy and social psychology"
+  course = "PhD in philosophy"
   institution = "Paris 8 University"
-  year = "Planned graduation: 2018"
+  year = "2019"
 
 [[education.courses]]
   course = "Diploma in Philosophy"
@@ -41,6 +41,6 @@ weight = 5
 
 # Biography
 
-Aurélien Allard is a PhD candidate at Paris 8 University in moral philosophy and social psychology. He studies ideas of social justice, including perceptions of equality and merit, both from an empirical and normative point of view. He is also interested in the recent methodological developments in psychology and social sciences. He is a strong proponent of open science and is a member of the Society for the improvement of psychological science ([SIPS](https://improvingpsych.org/)).
+Aurélien Allard is a Post-Doc at the University of Geneva, working on ways to improve research integrity. He studies ideas of social justice, including perceptions of equality and merit, both from an empirical and normative point of view. He is also interested in the recent methodological developments in psychology and social sciences. He is a strong proponent of open science and is a member of the Society for the improvement of psychological science ([SIPS](https://improvingpsych.org/)).
 
 
