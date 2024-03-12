@@ -17,8 +17,8 @@ authors = ["Aurélien Allard", "Florian Cova"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Applied Philosophy*."
-publication_short = "In *JAP*"
+publication = "In *Journal of Applied Philosophy*"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "The moral value of distributive equality constitutes one of the most contentious debates in political philosophy. Following Frankfurt, many philosophers have claimed that the intuitive appeal of equality is illusory and that egalitarian intuitions are fundamentally intuitions about the importance of satisfying basic needs. According to this argument, our intuitions tell us that inequality ceases to matter once a certain threshold has been reached. Despite the widespread appeal to intuitions regarding this issue, few empirical studies have tried to assess whether Frankfurt and his followers are right in claiming the lack of intuitiveness of equality per se. In a series of three experiments, we show that experimental evidence does not allow us to settle the intuitiveness of each theory: laypeople are divided in the consideration of the respective importance of needs and equality. While our results do show that laypeople attach special importance to needs-fulfilment, it also seems that they are divided when it comes to the importance they grant to equality once needs are fulfilled. No theory is unanimously backed by participants, and it seems that, fundamentally, divisions among philosophers reflect deep divisions among people."
