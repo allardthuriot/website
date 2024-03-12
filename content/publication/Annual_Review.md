@@ -17,7 +17,7 @@ authors = ["Brian A. Nosek", "Tom E. Hardwicke", "Hannah Moshontz", "Aurélien A
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Annual Review of Psychology*."
+publication = "In *Annual Review of Psychology*"
 publication_short = ""
 
 # Abstract and optional shortened version.
