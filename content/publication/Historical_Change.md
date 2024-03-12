@@ -17,8 +17,8 @@ authors = ["Aurélien Allard", "Antoine Marie"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *The Behavioral and Brain Sciences*."
-publication_short = "In *BBS*"
+publication = "In *The Behavioral and Brain Sciences*"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Baumard suggests that the advent, through phenotypic plasticity mechanisms, of future-oriented preferences and creative mindsets in eighteenth-century Great Britain explains the wave of innovations that drove the British Industrial Revolution. We argue that, although this approach is promising, Baumard's model would benefit from being supplemented by demographic, economic, and sociological explanations independent of Life History Theory (LHT)."
