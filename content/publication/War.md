@@ -17,8 +17,8 @@ authors = ["Hanne M. Watkins", "Mengyao Li", "Aurélien Allard", "Bernhard Leidn
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Personality and Social Psychology Bulletin*."
-publication_short = "In *PSPB*"
+publication = "In *Personality and Social Psychology Bulletin*"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "We remember the past in order not to repeat it, but does remembrance of war in fact shape support for military or diplomatic approaches to international conflict? In seven samples from five countries (collected online, total N = 2,493), we examined support for military and diplomatic approaches to conflict during war commemorations (e.g., Veterans Day). During war commemorations in the United States, support for diplomacy increased, whereas support for military approaches did not change. We found similar results in the United Kingdom and Australia on Remembrance Day, but not in Germany, or France, nor in Australia on Anzac Day. Furthermore, support for diplomacy was predicted by concern about loss of ingroup military lives during war, independently of concern about harm to outgroup civilians. These studies expand our understanding of how collective memories of war may be leveraged to promote diplomatic approaches to contemporary geopolitical conflict."
