@@ -25,4 +25,4 @@ weight = 3
 +++
 
 
-I am a post-doc at the ENS (Paris), working on the replicability crisis and the improvement of research integrity. <br>
+I am a philosopher and social psychologist, working on the replicability crisis and the improvement of research integrity. <br>
