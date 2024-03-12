@@ -25,4 +25,4 @@ weight = 3
 +++
 
 
-I am a PhD candidate at Paris 8 University. My research integrates both philosophical and psychological approaches to morality. <br>
+I am a post-doc at the ENS (Paris), working on the replicability crisis and the improvement of research integrity. <br>
