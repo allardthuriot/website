@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Annual Review of Psychology*."
-publication_short = "In *ARP*"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Replication—an important, uncommon, and misunderstood practice—is gaining appreciation in psychology. Achieving replicability is important for making research progress. If findings are not replicable, then prediction and theory development are stifled. If findings are replicable, then interrogation of their meaning and validity can advance knowledge. Assessing replicability can be productive for generating and testing hypotheses by actively confronting current understandings to identify weaknesses and spur innovation. For psychology, the 2010s might be characterized as a decade of active confrontation. Systematic and multi-site replication projects assessed current understandings and observed surprising failures to replicate many published findings. Replication efforts highlighted sociocultural challenges such as disincentives to conduct replications and a tendency to frame replication as a personal attack rather than a healthy scientific practice, and they raised awareness that replication contributes to self-correction. Nevertheless, innovation in doing and understanding replication and its cousins, reproducibility and robustness, has positioned psychology to improve research practices and accelerate progress."
