@@ -256,12 +256,12 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "CV"
-  url = "#projects"
+  url = "https://www.dropbox.com/scl/fi/2gomnscthh64rlgvo5dfh/CV_Allard.pdf?rlkey=593pzjxsbm5mdgxrd0v4hbff7&e=1&dl=0"
   weight = 4
 
 [[menu.main]]
   name = "Teaching"
-  url = "https://www.dropbox.com/scl/fi/2gomnscthh64rlgvo5dfh/CV_Allard.pdf?rlkey=593pzjxsbm5mdgxrd0v4hbff7&e=1&dl=0"
+  url = "#teaching"
   weight = 5
 
 [[menu.main]]
