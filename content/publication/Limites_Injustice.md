@@ -1,6 +1,6 @@
 +++
 title = "Les limites de l'injustice: une étude empirique"
-date = "2018"
+date = "2018-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Aurélien Allard", "Florian Cova"]
