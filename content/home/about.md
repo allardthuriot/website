@@ -41,5 +41,5 @@ weight = 5
 
 # Biography
 
-Aurélien Allard is a social psychologist and philosopher. He is currently working on research integrity as a Postdoc at the ENS (Paris). He has two main areas of interest: the study of morality and the replicability crisis in social and biomedical sciences. He is a strong proponent of open science and is a member of the Society for the Improvement of Psychological Science ([SIPS](https://improvingpsych.org/)).
+Aurélien Allard is a social psychologist and philosopher. He is an assistant professor at Nantes University, teaching methodology and statistics in psychology. He has two main areas of interest: the study of morality and the replicability crisis in social and biomedical sciences. He is a strong proponent of open science and is a member of the Society for the Improvement of Psychological Science ([SIPS](https://improvingpsych.org/)).
 
